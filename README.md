@@ -44,6 +44,7 @@ Awesome *free* resources for learning languages, from word lists, to images, pro
 - 💰 [ReadLang](https://readlang.com/): Similar to Language Reactor but geared more to written resources. With a built-in flashcard system.
 - [Language Input](https://www.languageinput.com/): A layer on top of Youtube with subtitles you can interrogate
 - [Eja.tv](https://eja.tv/): Watch international TV channels from anywhere.
+- 💰 [manga translator](https://www.mangatranslate.com) (MangaTranslate): Draft reading aid for authorized image/PDF material, with a translation editor; limited free credits and paid plans. Human review required.
 
 ## 🗃 Flashcards
 
